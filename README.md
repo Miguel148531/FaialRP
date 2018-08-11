@@ -1,0 +1,2 @@
+# FaialRP
+Server de fivem
